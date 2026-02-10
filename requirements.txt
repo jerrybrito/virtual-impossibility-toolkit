@@ -1,0 +1,2 @@
+# Requires: theoretical-cycle
+# (Not available on PyPI)
